@@ -1,7 +1,7 @@
 
 <!-- ![](https://komarev.com/ghpvc/?username=b2-krunalrana&label=Profile%20views&color=0e75b6&style=flat" alt="b2-krunalrana) -->
 
-<h1 align="center">Hello , I'm <a href="www.krunalrana.site" target="blank">Krunal Rana :) </a><img height="25" src="https://media0.giphy.com/media/rCQjGsMn9r684dD6Ss/giphy.gif?cid=ecf05e47495dhz9lfir54iktfqwhs5fjesrr9exy6lyhbrsr&rid=giphy.gif&ct=s"></h1>
+<h1 align="center">Hello , I'm <a href="https://www.krunalrana.site/" target="blank">Krunal Rana :) </a><img height="25" src="https://media0.giphy.com/media/rCQjGsMn9r684dD6Ss/giphy.gif?cid=ecf05e47495dhz9lfir54iktfqwhs5fjesrr9exy6lyhbrsr&rid=giphy.gif&ct=s"></h1>
 <h3 align="center">a passionate self-taught full stack web devloper and a freelance Web development and SEO from India. My passion for software and Webapp lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</h3>
 <!-- <img hight=""src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e479t07aaerk8j7an2796ltqifi5d5awlvn6w8qe6wx&rid=giphy.gif&ct=g"> -->
 
