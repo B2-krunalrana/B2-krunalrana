@@ -64,13 +64,13 @@
 <code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
 <code><img height="20" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png"></code>
-<code><img height="20" src="https://assets.stickpng.com/images/5847f981cef1014c0b5e48be.png"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/google-search-console.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1200px-WordPress_blue_logo.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/A/adobe-photoshop-logo-7B88D7B5AA-seeklogo.com.png"></code>
 <code><img height="20" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-1-1.png"></code>
-<code><img height="20" src=""><br></code>
+<code><img height="20" src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg"><br></code>
 
 
 
