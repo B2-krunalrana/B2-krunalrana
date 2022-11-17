@@ -26,7 +26,8 @@
 
 - 📫 How to reach me **ranakrunal2704@gmail.com**
 
-- 🌱 Want More about me Ask @B2 [https://wa.me/message/5KP5QK3XSOB6H1](https://wa.me/message/5KP5QK3XSOB6H1)
+- 🌱 Want More about me Ask **<a href="https://wa.me/message/5KP5QK3XSOB6H1"> @B2</a><img height="25" src="https://cliply.co/wp-content/uploads/2021/08/372108180_WHATSAPP_ICON_400.gif" >** 
+<!--   <a href="https://www.krunalrana.site/" target="blank">Krunal Rana :) </a> -->
 
 <h3 align="left">Connect with me:</h3>
 <br>
