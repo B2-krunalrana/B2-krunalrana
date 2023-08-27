@@ -74,7 +74,7 @@
 <code><img height="20" src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_analytics.svg"><br></code>
 
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b2-krunalrana&show_icons=true&locale=en&layout=compact" alt="b2-krunalrana" /></p>
 <!-- <br>
@@ -82,4 +82,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b2-krunalrana&show_icons=true&locale=en" alt="b2-krunalrana" /></p>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b2-krunalrana&" alt="b2-krunalrana" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=B2-krunalrana&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b2-krunalrana&" alt="b2-krunalrana" /></p>-->
